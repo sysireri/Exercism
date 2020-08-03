@@ -12,5 +12,5 @@ public static class AccumulateExtensions
         }
     }
 }
-// Commentaire pou tester GIT.
+
 //exercism submit C:\Users\eric\Exercism\csharp\accumulate\Accumulate.cs
