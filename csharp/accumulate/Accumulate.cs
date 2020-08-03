@@ -12,4 +12,5 @@ public static class AccumulateExtensions
         }
     }
 }
+
 //exercism submit C:\Users\eric\Exercism\csharp\accumulate\Accumulate.cs
