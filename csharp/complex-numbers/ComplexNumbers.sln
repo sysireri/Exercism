@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComplexNumbers", "ComplexNumbers.csproj", "{1E5A0951-C4B1-49B2-9488-E76D9DC4DB38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E5A0951-C4B1-49B2-9488-E76D9DC4DB38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5A0951-C4B1-49B2-9488-E76D9DC4DB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5A0951-C4B1-49B2-9488-E76D9DC4DB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5A0951-C4B1-49B2-9488-E76D9DC4DB38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {303EC17E-C023-44D0-BF61-2A1C91797985}
+	EndGlobalSection
+EndGlobal
