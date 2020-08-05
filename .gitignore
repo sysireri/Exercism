@@ -351,3 +351,27 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+csharp/_RunDosCommand/_RunDosCommand.sln
+csharp/_RunDosCommand/_RunDosCommand/_RunDosCommand.csproj
+csharp/_RunDosCommand/_RunDosCommand/App.config
+csharp/_RunDosCommand/_RunDosCommand/Form1.cs
+csharp/_RunDosCommand/_RunDosCommand/Form1.Designer.cs
+csharp/_RunDosCommand/_RunDosCommand/Form1.resx
+csharp/_RunDosCommand/_RunDosCommand/Program.cs
+csharp/_RunDosCommand/_RunDosCommand/Properties/AssemblyInfo.cs
+csharp/_RunDosCommand/_RunDosCommand/Properties/Resources.Designer.cs
+csharp/_RunDosCommand/_RunDosCommand/Properties/Resources.resx
+csharp/_RunDosCommand/_RunDosCommand/Properties/Settings.Designer.cs
+csharp/_RunDosCommand/_RunDosCommand/Properties/Settings.settings
+csharp/_RunDosCommand/_RunDosCommand.sln
+csharp/_RunDosCommand/_RunDosCommand/_RunDosCommand.csproj
+csharp/_RunDosCommand/_RunDosCommand/App.config
+csharp/_RunDosCommand/_RunDosCommand/Form1.cs
+csharp/_RunDosCommand/_RunDosCommand/Form1.Designer.cs
+csharp/_RunDosCommand/_RunDosCommand/Form1.resx
+csharp/_RunDosCommand/_RunDosCommand/Program.cs
+csharp/_RunDosCommand/_RunDosCommand/Properties/AssemblyInfo.cs
+csharp/_RunDosCommand/_RunDosCommand/Properties/Resources.Designer.cs
+csharp/_RunDosCommand/_RunDosCommand/Properties/Resources.resx
+csharp/_RunDosCommand/_RunDosCommand/Properties/Settings.Designer.cs
+csharp/_RunDosCommand/_RunDosCommand/Properties/Settings.settings
