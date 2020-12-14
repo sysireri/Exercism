@@ -11,6 +11,7 @@
     <OutputPath>.</OutputPath>
     <Name>two-fer</Name>
     <RootNamespace>two-fer</RootNamespace>
+    <TestFramework>unittest</TestFramework>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
